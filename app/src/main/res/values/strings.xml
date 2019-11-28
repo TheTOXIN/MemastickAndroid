@@ -8,4 +8,12 @@
                 \"site\": \"https://www.memastick.ru\"}
         }]
     </string>
+
+    <string name="providerAuthority" translatable="false">xyz.appmaker.qkufdm.fileprovider</string>
+
+    <string name="hostName" translatable="false">www.memastick.ru</string>
+    <string name="launchUrl" translatable="false">https://www.memastick.ru/</string>
+    <string name="crosLaunchUrl" translatable="false">https://www.memastick.ru/</string>
+
+    <string name="appName">Мемастик</string>
 </resources>
