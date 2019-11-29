@@ -23,7 +23,7 @@ android {
         applicationId "xyz.appmaker.qkufdm"
         minSdkVersion 16
         targetSdkVersion 28
-        versionCode 343
+        versionCode 344
         versionName "0.1"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         manifestPlaceholders = [
